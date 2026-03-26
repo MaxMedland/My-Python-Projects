@@ -10,13 +10,13 @@ This repository showcases a structured approach to data science, from raw data i
 * **Pandas:** Expertise in complex data wrangling, multi-index alignment, and time-series analysis.
 * **NumPy:** Utilization of vectorized operations and N-dimensional arrays to optimize computational performance.
 
-### **Statistical Visualization**
-* **Matplotlib & Seaborn:** Construction of high-level statistical visualizations, including correlation heatmaps, distribution plots, and confusion matrices to interpret model results.
+### **Statistical visualisation**
+* **Matplotlib & Seaborn:** Construction of high-level statistical visualisations, including correlation heatmaps, distribution plots, and confusion matrices to interpret model results.
 
 <!--
 ### **Machine Learning (Scikit-Learn)**
-* **Supervised Learning:** Implementation of **Logistic Regression** for baseline classification and **Random Forest** for robust, non-linear ensemble modeling.
-* **Model Validation:** Rigorous performance estimation using a **Train/Validation/Test split** strategy to ensure model generalizability and prevent overfitting.
+* **Supervised Learning:** Implementation of **Logistic Regression** for baseline classification and **Random Forest** for robust, non-linear ensemble modelling.
+* **Model Validation:** Rigorous performance estimation using a **Train/Validation/Test split** strategy to ensure model generalisability and prevent overfitting.
 * **Evaluation Metrics:** Deep-dive analysis using Precision-Recall curves, ROC-AUC, and F1-score to compare model efficacy.
 --> 
 
@@ -27,7 +27,7 @@ This repository showcases a structured approach to data science, from raw data i
 ### **1. Advanced Pipeline Architecture**
 Built modular pipelines using `Scikit-Learn` to automate feature scaling and encoding, ensuring a clean transition from raw data to model input while strictly preventing data leakage.
 
-### **2. Predictive Modeling & Comparison**
+### **2. Predictive modelling & Comparison**
 * **Logistic Regression:** Developed a probabilistic baseline model to establish linear relationships within the dataset.
 * **Random Forest:** Deployed an ensemble of decision trees to capture complex non-linear patterns and provide feature importance rankings.
 
